@@ -1,3 +1,8 @@
+<p align="center">
+    <img src="https://cdn.vectorstock.com/i/500p/55/26/color-megaphone-icon-with-word-customer-segment-vector-51855526.jpg" alt="MasterHead"/>
+</p>
+
+
 # FLO - Unsupervised Learning Customer Segmentation
 
 ## Project Overview
